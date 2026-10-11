@@ -9,4 +9,3 @@ Shiori引擎本体：https://github.com/1145141919810TONNY/webgalgameengine
 
 本引擎专用可视化编辑器链接：[https://github.com/1145141919810TONNY/Shiori-editor](https://github.com/1145141919810TONNY/Shiori-editor)
 
-本引擎的插件仓库：[https://github.com/1145141919810TONNY/ShioriPlugin](https://github.com/1145141919810TONNY/ShioriPlugin)
